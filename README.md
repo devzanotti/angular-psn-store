@@ -4,7 +4,7 @@
 
  <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
   <br />
-  Blog - Angular
+  PSN STORE - Angular
 </h1>
 
   <!-- project badges -->
