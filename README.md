@@ -17,7 +17,7 @@
 
 <div align="center">
   	<a href="#">
-      <img src="image.png" width="450" alt="preview" />
+      <img src="./src/assets/img/image.png" width="450" alt="preview" />
   	</a>
 </div>
 
